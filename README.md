@@ -1,5 +1,5 @@
 # Creation of cardiac embryological models for 3D printing to teach anatomy and embryology
 
-Here it's presented the creation of cardiac embryological models for 3D printing to teach anatomy and embryology. The intention is to facilitate learning by presenting the .stl files for visualization or printing the heart models.
+Here, I present the development of cardiac embryological models designed for 3D printing to enhance the teaching of anatomy and embryology. The objective is to facilitate learning by providing .stl files for visualizing and printing heart models.
 
-I hope you find this helpful for teaching and learning the cardiac formation.
+I believe that you will find this resource valuable for both teaching and learning about cardiac development. Thank you for your attention and interest in our cardiac embryological models. If you have any questions or require further information, please feel free to reach out.
